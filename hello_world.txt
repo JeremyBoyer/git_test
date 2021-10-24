@@ -1,0 +1,4 @@
+I have learned how to clone a respository from GitHub using "git clone"
+I have learned how to check what files have been commited and what are still untracked with "git status"
+I have learned how to add a file to the staging area with "git add"
+I have learned how to commit files with "git commit"
